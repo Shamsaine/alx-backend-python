@@ -2,7 +2,7 @@
 ''' import module'''
 
 
-def floor(n: float) -> float:
+def floor(n: float) -> int:
     '''floors a floating point number
     '''
 
